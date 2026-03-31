@@ -20,5 +20,5 @@ PHP Practical
 
 <p align="center">
     <img src="images/show.png" width="45%" height="45%">
-    <img src="images/invalid.png.png" width="45%" height="45%">
+    <img src="images/invalid.png" width="45%" height="45%">
 </p>
